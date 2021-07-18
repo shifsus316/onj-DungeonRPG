@@ -76,3 +76,4 @@ DerivedDataCache/*
 # Content
 Content/*
 !Content/a_onJRPG/
+Content/a_onJRPG/MAP/*

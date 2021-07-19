@@ -77,3 +77,4 @@ DerivedDataCache/*
 Content/*
 !Content/a_onJRPG/
 Content/a_onJRPG/MAP/*
+!Content/a_onJRPG/MAP/WorldMap.umap
